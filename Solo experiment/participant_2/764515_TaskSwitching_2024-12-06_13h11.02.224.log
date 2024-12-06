@@ -1,0 +1,449 @@
+107.1569 	INFO 	Loaded monitor calibration from ['2024_08_09 00:19']
+107.1953 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+107.6211 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DA80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DA20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4E380>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D726A8D090>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+107.6212 	EXP 	window1: backgroundImage = ''
+107.6213 	EXP 	window1: backgroundFit = 'none'
+107.6219 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.6223 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.6297 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.6326 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.7586 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.7597 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.7617 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.7639 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001D730B4DBA0>
+107.8019 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+107.8020 	EXP 	window1: recordFrameIntervals = False
+108.3150 	EXP 	window1: recordFrameIntervals = True
+108.4147 	WARNING 	t of last frame was 50.00ms (=1/19)
+108.4647 	WARNING 	t of last frame was 49.94ms (=1/20)
+108.5147 	WARNING 	t of last frame was 50.03ms (=1/19)
+108.5646 	WARNING 	t of last frame was 49.92ms (=1/20)
+108.6345 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+109.2193 	EXP 	Screen (0) actual frame rate measured at 58.59Hz
+109.2193 	EXP 	window1: recordFrameIntervals = False
+109.2197 	EXP 	window1: mouseVisible = False
+114.9093 	INFO 	keyboard.Keyboard is using iohub backend.
+114.9094 	INFO 	keyboard.Keyboard is using iohub backend.
+114.9095 	INFO 	keyboard.Keyboard is using iohub backend.
+114.9095 	EXP 	TaskSwitching: status = STARTED
+114.9100 	EXP 	window1: mouseVisible = False
+115.1357 	EXP 	Created instruction_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instruction_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+115.1358 	EXP 	window1: mouseVisible = False
+115.1374 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+115.1375 	EXP 	window1: mouseVisible = False
+115.1393 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+115.1395 	EXP 	window1: mouseVisible = False
+115.1411 	EXP 	Created feedback_test = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='feedback_test', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+115.1412 	EXP 	window1: mouseVisible = False
+115.1524 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating!', units='height', win=Window(...), wrapWidth=1)
+0.0027 	DATA 	Keypress: space
+0.0359 	INFO 	Keyboard events cleared
+0.0354 	EXP 	instruction_text: autoDraw = True
+1.1812 	EXP 	Imported TaskSwitching_Stimuli.xlsx as conditions, 20 conditions, 4 params
+1.1821 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'stimulus': 0, 'cue': 'Task A', 'correct_response': 'm', 'task_type': 'repeat ', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.1889 	DATA 	Keypress: space
+1.1990 	EXP 	instruction_text: autoDraw = False
+1.1990 	EXP 	text_2: height = 0.05
+1.1990 	EXP 	text_2: height = 0.05
+1.1990 	EXP 	text_2: height = 0.05
+1.1990 	EXP 	text_2: text = 'Task A'
+1.1990 	EXP 	text_2: autoDraw = True
+2.1921 	INFO 	Keyboard events cleared
+2.1915 	EXP 	text_2: autoDraw = False
+2.1915 	EXP 	text_3: height = 0.05
+2.1915 	EXP 	text_3: height = 0.05
+2.1915 	EXP 	text_3: height = 0.05
+2.1915 	EXP 	text_3: text = 0
+2.1915 	EXP 	text_3: autoDraw = True
+3.1912 	EXP 	text_3: autoDraw = False
+3.9510 	DATA 	Keypress: m
+3.9611 	EXP 	text_3: autoDraw = False
+3.9611 	EXP 	feedback_test: height = 0.05
+3.9611 	EXP 	feedback_test: height = 0.05
+3.9611 	EXP 	feedback_test: height = 0.05
+3.9611 	EXP 	feedback_test: text = 'Correct'
+3.9611 	EXP 	feedback_test: autoDraw = True
+5.9569 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'stimulus': 'E', 'cue': 'Task B', 'correct_response': 'z', 'task_type': 'switch', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.9730 	EXP 	feedback_test: autoDraw = False
+5.9730 	EXP 	text_2: height = 0.05
+5.9730 	EXP 	text_2: height = 0.05
+5.9730 	EXP 	text_2: height = 0.05
+5.9730 	EXP 	text_2: text = 'Task B'
+5.9730 	EXP 	text_2: autoDraw = True
+6.9731 	INFO 	Keyboard events cleared
+6.9726 	EXP 	text_2: autoDraw = False
+6.9726 	EXP 	text_3: height = 0.05
+6.9726 	EXP 	text_3: height = 0.05
+6.9726 	EXP 	text_3: height = 0.05
+6.9726 	EXP 	text_3: text = 'E'
+6.9726 	EXP 	text_3: autoDraw = True
+7.9723 	EXP 	text_3: autoDraw = False
+8.2149 	DATA 	Keypress: m
+8.2249 	EXP 	text_3: autoDraw = False
+8.2249 	EXP 	feedback_test: height = 0.05
+8.2249 	EXP 	feedback_test: height = 0.05
+8.2249 	EXP 	feedback_test: height = 0.05
+8.2249 	EXP 	feedback_test: text = 'Incorrect'
+8.2249 	EXP 	feedback_test: autoDraw = True
+10.2216 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'stimulus': 2, 'cue': 'Task A', 'correct_response': 'm', 'task_type': 'repeat ', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+10.2379 	EXP 	feedback_test: autoDraw = False
+10.2379 	EXP 	text_2: height = 0.05
+10.2379 	EXP 	text_2: height = 0.05
+10.2379 	EXP 	text_2: height = 0.05
+10.2379 	EXP 	text_2: text = 'Task A'
+10.2379 	EXP 	text_2: autoDraw = True
+11.2380 	INFO 	Keyboard events cleared
+11.2373 	EXP 	text_2: autoDraw = False
+11.2373 	EXP 	text_3: height = 0.05
+11.2373 	EXP 	text_3: height = 0.05
+11.2373 	EXP 	text_3: height = 0.05
+11.2373 	EXP 	text_3: text = 2
+11.2373 	EXP 	text_3: autoDraw = True
+11.7578 	DATA 	Keypress: z
+11.7705 	EXP 	text_3: autoDraw = False
+11.7705 	EXP 	feedback_test: text = 'Incorrect'
+11.7705 	EXP 	feedback_test: autoDraw = True
+13.7542 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'stimulus': 8, 'cue': 'Task A', 'correct_response': 'm', 'task_type': 'repeat ', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+13.7696 	EXP 	feedback_test: autoDraw = False
+13.7696 	EXP 	feedback_test: autoDraw = False
+13.7696 	EXP 	text_2: text = 'Task A'
+13.7696 	EXP 	text_2: autoDraw = True
+14.7697 	INFO 	Keyboard events cleared
+14.7691 	EXP 	text_2: autoDraw = False
+14.7691 	EXP 	text_2: autoDraw = False
+14.7691 	EXP 	text_3: height = 0.05
+14.7691 	EXP 	text_3: height = 0.05
+14.7691 	EXP 	text_3: height = 0.05
+14.7691 	EXP 	text_3: text = 8
+14.7691 	EXP 	text_3: autoDraw = True
+15.3555 	DATA 	Keypress: z
+15.3689 	EXP 	text_3: autoDraw = False
+15.3689 	EXP 	feedback_test: text = 'Incorrect'
+15.3689 	EXP 	feedback_test: autoDraw = True
+17.3523 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'stimulus': 'I', 'cue': 'Task B', 'correct_response': 'z', 'task_type': 'switch', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+17.3680 	EXP 	feedback_test: autoDraw = False
+17.3680 	EXP 	feedback_test: autoDraw = False
+17.3680 	EXP 	text_2: height = 0.05
+17.3680 	EXP 	text_2: height = 0.05
+17.3680 	EXP 	text_2: height = 0.05
+17.3680 	EXP 	text_2: text = 'Task B'
+17.3680 	EXP 	text_2: autoDraw = True
+17.7872 	DATA 	Keypress: m
+18.3681 	INFO 	Keyboard events cleared
+18.3675 	EXP 	text_2: autoDraw = False
+18.3675 	EXP 	text_2: autoDraw = False
+18.3675 	EXP 	text_3: height = 0.05
+18.3675 	EXP 	text_3: height = 0.05
+18.3675 	EXP 	text_3: height = 0.05
+18.3675 	EXP 	text_3: text = 'I'
+18.3675 	EXP 	text_3: autoDraw = True
+18.6210 	DATA 	Keypress: m
+18.6340 	EXP 	text_3: autoDraw = False
+18.6340 	EXP 	feedback_test: text = 'Incorrect'
+18.6340 	EXP 	feedback_test: autoDraw = True
+20.6175 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'stimulus': 'O', 'cue': 'Task B', 'correct_response': 'z', 'task_type': 'switch', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+20.6331 	EXP 	feedback_test: autoDraw = False
+20.6331 	EXP 	feedback_test: autoDraw = False
+20.6331 	EXP 	text_2: text = 'Task B'
+20.6331 	EXP 	text_2: autoDraw = True
+21.6337 	INFO 	Keyboard events cleared
+21.6332 	EXP 	text_2: autoDraw = False
+21.6332 	EXP 	text_2: autoDraw = False
+21.6332 	EXP 	text_3: height = 0.05
+21.6332 	EXP 	text_3: height = 0.05
+21.6332 	EXP 	text_3: height = 0.05
+21.6332 	EXP 	text_3: text = 'O'
+21.6332 	EXP 	text_3: autoDraw = True
+22.6323 	EXP 	text_3: autoDraw = False
+23.3076 	DATA 	Keypress: z
+23.3178 	EXP 	text_3: autoDraw = False
+23.3178 	EXP 	feedback_test: height = 0.05
+23.3178 	EXP 	feedback_test: height = 0.05
+23.3178 	EXP 	feedback_test: height = 0.05
+23.3178 	EXP 	feedback_test: text = 'Correct'
+23.3178 	EXP 	feedback_test: autoDraw = True
+25.3146 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'stimulus': 3, 'cue': 'Task A', 'correct_response': 'z', 'task_type': 'repeat ', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+25.3309 	EXP 	feedback_test: autoDraw = False
+25.3309 	EXP 	text_2: height = 0.05
+25.3309 	EXP 	text_2: height = 0.05
+25.3309 	EXP 	text_2: height = 0.05
+25.3309 	EXP 	text_2: text = 'Task A'
+25.3309 	EXP 	text_2: autoDraw = True
+26.3324 	INFO 	Keyboard events cleared
+26.3318 	EXP 	text_2: autoDraw = False
+26.3318 	EXP 	text_3: height = 0.05
+26.3318 	EXP 	text_3: height = 0.05
+26.3318 	EXP 	text_3: height = 0.05
+26.3318 	EXP 	text_3: text = 3
+26.3318 	EXP 	text_3: autoDraw = True
+27.3468 	EXP 	text_3: autoDraw = False
+27.4905 	DATA 	Keypress: m
+27.5007 	EXP 	text_3: autoDraw = False
+27.5007 	EXP 	feedback_test: height = 0.05
+27.5007 	EXP 	feedback_test: height = 0.05
+27.5007 	EXP 	feedback_test: height = 0.05
+27.5007 	EXP 	feedback_test: text = 'Incorrect'
+27.5007 	EXP 	feedback_test: autoDraw = True
+29.4963 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'stimulus': 5, 'cue': 'Task A', 'correct_response': 'z', 'task_type': 'repeat ', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+29.5125 	EXP 	feedback_test: autoDraw = False
+29.5125 	EXP 	text_2: text = 'Task A'
+29.5125 	EXP 	text_2: autoDraw = True
+30.5143 	INFO 	Keyboard events cleared
+30.5138 	EXP 	text_2: autoDraw = False
+30.5138 	EXP 	text_3: height = 0.05
+30.5138 	EXP 	text_3: height = 0.05
+30.5138 	EXP 	text_3: height = 0.05
+30.5138 	EXP 	text_3: text = 5
+30.5138 	EXP 	text_3: autoDraw = True
+31.5281 	EXP 	text_3: autoDraw = False
+32.1026 	DATA 	Keypress: z
+32.1128 	EXP 	text_3: autoDraw = False
+32.1128 	EXP 	feedback_test: height = 0.05
+32.1128 	EXP 	feedback_test: height = 0.05
+32.1128 	EXP 	feedback_test: height = 0.05
+32.1128 	EXP 	feedback_test: text = 'Correct'
+32.1128 	EXP 	feedback_test: autoDraw = True
+34.1106 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'stimulus': 'A', 'cue': 'Task B', 'correct_response': 'z', 'task_type': 'switch', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+34.1268 	EXP 	feedback_test: autoDraw = False
+34.1268 	EXP 	text_2: height = 0.05
+34.1268 	EXP 	text_2: height = 0.05
+34.1268 	EXP 	text_2: height = 0.05
+34.1268 	EXP 	text_2: text = 'Task B'
+34.1268 	EXP 	text_2: autoDraw = True
+35.1271 	INFO 	Keyboard events cleared
+35.1265 	EXP 	text_2: autoDraw = False
+35.1265 	EXP 	text_3: height = 0.05
+35.1265 	EXP 	text_3: height = 0.05
+35.1265 	EXP 	text_3: height = 0.05
+35.1265 	EXP 	text_3: text = 'A'
+35.1265 	EXP 	text_3: autoDraw = True
+35.6176 	DATA 	Keypress: m
+35.6277 	EXP 	text_3: autoDraw = False
+35.6277 	EXP 	feedback_test: height = 0.05
+35.6277 	EXP 	feedback_test: height = 0.05
+35.6277 	EXP 	feedback_test: height = 0.05
+35.6277 	EXP 	feedback_test: text = 'Incorrect'
+35.6277 	EXP 	feedback_test: autoDraw = True
+37.6257 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'stimulus': 'U', 'cue': 'Task B', 'correct_response': 'z', 'task_type': 'switch', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+37.6420 	EXP 	feedback_test: autoDraw = False
+37.6420 	EXP 	text_2: text = 'Task B'
+37.6420 	EXP 	text_2: autoDraw = True
+38.6425 	INFO 	Keyboard events cleared
+38.6419 	EXP 	text_2: autoDraw = False
+38.6419 	EXP 	text_3: height = 0.05
+38.6419 	EXP 	text_3: height = 0.05
+38.6419 	EXP 	text_3: height = 0.05
+38.6419 	EXP 	text_3: text = 'U'
+38.6419 	EXP 	text_3: autoDraw = True
+39.6411 	EXP 	text_3: autoDraw = False
+40.2764 	DATA 	Keypress: z
+40.3078 	EXP 	text_3: autoDraw = False
+40.3078 	EXP 	feedback_test: height = 0.05
+40.3078 	EXP 	feedback_test: height = 0.05
+40.3078 	EXP 	feedback_test: height = 0.05
+40.3078 	EXP 	feedback_test: text = 'Correct'
+40.3078 	EXP 	feedback_test: autoDraw = True
+42.3070 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'stimulus': 1, 'cue': 'Task A', 'correct_response': 'z', 'task_type': 'repeat ', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+42.3230 	EXP 	feedback_test: autoDraw = False
+42.3230 	EXP 	text_2: height = 0.05
+42.3230 	EXP 	text_2: height = 0.05
+42.3230 	EXP 	text_2: height = 0.05
+42.3230 	EXP 	text_2: text = 'Task A'
+42.3230 	EXP 	text_2: autoDraw = True
+43.3233 	INFO 	Keyboard events cleared
+43.3227 	EXP 	text_2: autoDraw = False
+43.3227 	EXP 	text_3: height = 0.05
+43.3227 	EXP 	text_3: height = 0.05
+43.3227 	EXP 	text_3: height = 0.05
+43.3227 	EXP 	text_3: text = 1
+43.3227 	EXP 	text_3: autoDraw = True
+44.0463 	DATA 	Keypress: m
+44.0564 	EXP 	text_3: autoDraw = False
+44.0564 	EXP 	feedback_test: height = 0.05
+44.0564 	EXP 	feedback_test: height = 0.05
+44.0564 	EXP 	feedback_test: height = 0.05
+44.0564 	EXP 	feedback_test: text = 'Incorrect'
+44.0564 	EXP 	feedback_test: autoDraw = True
+46.0552 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'stimulus': 'D', 'cue': 'Task B', 'correct_response': 'm', 'task_type': 'switch', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+46.0713 	EXP 	feedback_test: autoDraw = False
+46.0713 	EXP 	text_2: height = 0.05
+46.0713 	EXP 	text_2: height = 0.05
+46.0713 	EXP 	text_2: height = 0.05
+46.0713 	EXP 	text_2: text = 'Task B'
+46.0713 	EXP 	text_2: autoDraw = True
+47.0727 	INFO 	Keyboard events cleared
+47.0722 	EXP 	text_2: autoDraw = False
+47.0722 	EXP 	text_3: height = 0.05
+47.0722 	EXP 	text_3: height = 0.05
+47.0722 	EXP 	text_3: height = 0.05
+47.0722 	EXP 	text_3: text = 'D'
+47.0722 	EXP 	text_3: autoDraw = True
+47.5912 	DATA 	Keypress: z
+47.6042 	EXP 	text_3: autoDraw = False
+47.6042 	EXP 	feedback_test: text = 'Incorrect'
+47.6042 	EXP 	feedback_test: autoDraw = True
+49.5877 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'stimulus': 'J', 'cue': 'Task B', 'correct_response': 'm', 'task_type': 'switch', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+49.6033 	EXP 	feedback_test: autoDraw = False
+49.6033 	EXP 	feedback_test: autoDraw = False
+49.6033 	EXP 	text_2: text = 'Task B'
+49.6033 	EXP 	text_2: autoDraw = True
+50.6035 	INFO 	Keyboard events cleared
+50.6029 	EXP 	text_2: autoDraw = False
+50.6029 	EXP 	text_2: autoDraw = False
+50.6029 	EXP 	text_3: height = 0.05
+50.6029 	EXP 	text_3: height = 0.05
+50.6029 	EXP 	text_3: height = 0.05
+50.6029 	EXP 	text_3: text = 'J'
+50.6029 	EXP 	text_3: autoDraw = True
+51.6023 	EXP 	text_3: autoDraw = False
+53.6213 	DATA 	Keypress: z
+53.6347 	EXP 	text_3: autoDraw = False
+53.6347 	EXP 	feedback_test: text = 'Incorrect'
+53.6347 	EXP 	feedback_test: autoDraw = True
+55.6182 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'stimulus': 'T', 'cue': 'Task B', 'correct_response': 'm', 'task_type': 'switch', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+55.6340 	EXP 	feedback_test: autoDraw = False
+55.6340 	EXP 	feedback_test: autoDraw = False
+55.6340 	EXP 	text_2: text = 'Task B'
+55.6340 	EXP 	text_2: autoDraw = True
+56.1525 	DATA 	Keypress: z
+56.6340 	INFO 	Keyboard events cleared
+56.6334 	EXP 	text_2: autoDraw = False
+56.6334 	EXP 	text_2: autoDraw = False
+56.6334 	EXP 	text_3: height = 0.05
+56.6334 	EXP 	text_3: height = 0.05
+56.6334 	EXP 	text_3: height = 0.05
+56.6334 	EXP 	text_3: text = 'T'
+56.6334 	EXP 	text_3: autoDraw = True
+57.5861 	DATA 	Keypress: z
+57.6163 	EXP 	text_3: autoDraw = False
+57.6163 	EXP 	feedback_test: text = 'Incorrect'
+57.6163 	EXP 	feedback_test: autoDraw = True
+59.5996 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'stimulus': 9, 'cue': 'Task A', 'correct_response': 'z', 'task_type': 'repeat ', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+59.6152 	EXP 	feedback_test: autoDraw = False
+59.6152 	EXP 	feedback_test: autoDraw = False
+59.6152 	EXP 	text_2: height = 0.05
+59.6152 	EXP 	text_2: height = 0.05
+59.6152 	EXP 	text_2: height = 0.05
+59.6152 	EXP 	text_2: text = 'Task A'
+59.6152 	EXP 	text_2: autoDraw = True
+60.6154 	INFO 	Keyboard events cleared
+60.6149 	EXP 	text_2: autoDraw = False
+60.6149 	EXP 	text_2: autoDraw = False
+60.6149 	EXP 	text_3: height = 0.05
+60.6149 	EXP 	text_3: height = 0.05
+60.6149 	EXP 	text_3: height = 0.05
+60.6149 	EXP 	text_3: text = 9
+60.6149 	EXP 	text_3: autoDraw = True
+61.6145 	EXP 	text_3: autoDraw = False
+62.2341 	DATA 	Keypress: m
+62.2475 	EXP 	text_3: autoDraw = False
+62.2475 	EXP 	feedback_test: text = 'Incorrect'
+62.2475 	EXP 	feedback_test: autoDraw = True
+64.2312 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'stimulus': 7, 'cue': 'Task A', 'correct_response': 'z', 'task_type': 'repeat ', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+64.2466 	EXP 	feedback_test: autoDraw = False
+64.2466 	EXP 	feedback_test: autoDraw = False
+64.2466 	EXP 	text_2: text = 'Task A'
+64.2466 	EXP 	text_2: autoDraw = True
+65.2470 	INFO 	Keyboard events cleared
+65.2465 	EXP 	text_2: autoDraw = False
+65.2465 	EXP 	text_2: autoDraw = False
+65.2465 	EXP 	text_3: height = 0.05
+65.2465 	EXP 	text_3: height = 0.05
+65.2465 	EXP 	text_3: height = 0.05
+65.2465 	EXP 	text_3: text = 7
+65.2465 	EXP 	text_3: autoDraw = True
+66.2457 	EXP 	text_3: autoDraw = False
+67.0482 	DATA 	Keypress: z
+67.0792 	EXP 	text_3: autoDraw = False
+67.0792 	EXP 	feedback_test: height = 0.05
+67.0792 	EXP 	feedback_test: height = 0.05
+67.0792 	EXP 	feedback_test: height = 0.05
+67.0792 	EXP 	feedback_test: text = 'Correct'
+67.0792 	EXP 	feedback_test: autoDraw = True
+69.0781 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'stimulus': 6, 'cue': 'Task A', 'correct_response': 'm', 'task_type': 'repeat ', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+69.0944 	EXP 	feedback_test: autoDraw = False
+69.0944 	EXP 	text_2: text = 'Task A'
+69.0944 	EXP 	text_2: autoDraw = True
+70.0951 	INFO 	Keyboard events cleared
+70.0946 	EXP 	text_2: autoDraw = False
+70.0946 	EXP 	text_3: height = 0.05
+70.0946 	EXP 	text_3: height = 0.05
+70.0946 	EXP 	text_3: height = 0.05
+70.0946 	EXP 	text_3: text = 6
+70.0946 	EXP 	text_3: autoDraw = True
+71.1101 	EXP 	text_3: autoDraw = False
+71.4845 	DATA 	Keypress: z
+71.4945 	EXP 	text_3: autoDraw = False
+71.4945 	EXP 	feedback_test: height = 0.05
+71.4945 	EXP 	feedback_test: height = 0.05
+71.4945 	EXP 	feedback_test: height = 0.05
+71.4945 	EXP 	feedback_test: text = 'Incorrect'
+71.4945 	EXP 	feedback_test: autoDraw = True
+73.4927 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'stimulus': 'K', 'cue': 'Task B', 'correct_response': 'm', 'task_type': 'switch', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+73.5088 	EXP 	feedback_test: autoDraw = False
+73.5088 	EXP 	text_2: height = 0.05
+73.5088 	EXP 	text_2: height = 0.05
+73.5088 	EXP 	text_2: height = 0.05
+73.5088 	EXP 	text_2: text = 'Task B'
+73.5088 	EXP 	text_2: autoDraw = True
+74.5091 	INFO 	Keyboard events cleared
+74.5085 	EXP 	text_2: autoDraw = False
+74.5085 	EXP 	text_3: height = 0.05
+74.5085 	EXP 	text_3: height = 0.05
+74.5085 	EXP 	text_3: height = 0.05
+74.5085 	EXP 	text_3: text = 'K'
+74.5085 	EXP 	text_3: autoDraw = True
+75.4161 	DATA 	Keypress: m
+75.4263 	EXP 	text_3: autoDraw = False
+75.4263 	EXP 	feedback_test: height = 0.05
+75.4263 	EXP 	feedback_test: height = 0.05
+75.4263 	EXP 	feedback_test: height = 0.05
+75.4263 	EXP 	feedback_test: text = 'Correct'
+75.4263 	EXP 	feedback_test: autoDraw = True
+77.4243 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'stimulus': 'S', 'cue': 'Task B', 'correct_response': 'm', 'task_type': 'switch', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+77.4406 	EXP 	feedback_test: autoDraw = False
+77.4406 	EXP 	text_2: text = 'Task B'
+77.4406 	EXP 	text_2: autoDraw = True
+78.4407 	INFO 	Keyboard events cleared
+78.4401 	EXP 	text_2: autoDraw = False
+78.4401 	EXP 	text_3: height = 0.05
+78.4401 	EXP 	text_3: height = 0.05
+78.4401 	EXP 	text_3: height = 0.05
+78.4401 	EXP 	text_3: text = 'S'
+78.4401 	EXP 	text_3: autoDraw = True
+79.4397 	EXP 	text_3: autoDraw = False
+80.2758 	DATA 	Keypress: m
+80.2893 	EXP 	text_3: autoDraw = False
+80.2893 	EXP 	feedback_test: text = 'Correct'
+80.2893 	EXP 	feedback_test: autoDraw = True
+82.2728 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'stimulus': 4, 'cue': 'Task A', 'correct_response': 'm', 'task_type': 'repeat ', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+82.2886 	EXP 	feedback_test: autoDraw = False
+82.2886 	EXP 	feedback_test: autoDraw = False
+82.2886 	EXP 	text_2: height = 0.05
+82.2886 	EXP 	text_2: height = 0.05
+82.2886 	EXP 	text_2: height = 0.05
+82.2886 	EXP 	text_2: text = 'Task A'
+82.2886 	EXP 	text_2: autoDraw = True
+83.2903 	INFO 	Keyboard events cleared
+83.2898 	EXP 	text_2: autoDraw = False
+83.2898 	EXP 	text_2: autoDraw = False
+83.2898 	EXP 	text_3: height = 0.05
+83.2898 	EXP 	text_3: height = 0.05
+83.2898 	EXP 	text_3: height = 0.05
+83.2898 	EXP 	text_3: text = 4
+83.2898 	EXP 	text_3: autoDraw = True
+84.3043 	EXP 	text_3: autoDraw = False
+88.0119 	DATA 	Keypress: z
+88.0221 	EXP 	text_3: autoDraw = False
+88.0221 	EXP 	feedback_test: height = 0.05
+88.0221 	EXP 	feedback_test: height = 0.05
+88.0221 	EXP 	feedback_test: height = 0.05
+88.0221 	EXP 	feedback_test: text = 'Incorrect'
+88.0221 	EXP 	feedback_test: autoDraw = True
+90.0348 	EXP 	feedback_test: autoDraw = False
+90.0348 	EXP 	text_5: autoDraw = True
+91.0344 	EXP 	text_5: autoDraw = False
+91.0346 	EXP 	TaskSwitching: status = STOPPED
+91.0585 	INFO 	saved data to 'C:\\Users\\91931\\Desktop\\data/764515_TaskSwitching_2024-12-06_13h11.02.224.csv'
+91.0602 	INFO 	saved data to C:\Users\91931\Desktop\data/764515_TaskSwitching_2024-12-06_13h11.02.224.psydat
+91.3421 	EXP 	window1: mouseVisible = True
